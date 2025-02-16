@@ -1,2 +1,2 @@
 # ANAD
-Analyse de données - cours de L3 Informatique à l'UCBL
+Analyse de données - TPs de L3 Informatique à l'UCBL
