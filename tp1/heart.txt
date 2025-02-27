@@ -1,4 +1,4 @@
-age	sexe	type_douleur	pression	cholesterol	sucre	electro	taux_max	angine	depression	pic	vaisseau	coeur
+age	sexe	type_douleur	pression	cholester	sucre	electro	taux_max	angine	depression	pic	vaisseau	coeur
 70	masculin	D	130	322	A	C	109	non	24	2	D	presence
 67	feminin	C	115	564	A	C	160	non	16	2	A	absence
 57	masculin	B	124	261	A	A	141	non	3	1	A	presence
